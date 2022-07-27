@@ -6,14 +6,14 @@ Demo runs a simple python script with the Request Library.
 Resources:
 
 
-    [GitHub Actions Page](https://github.com/features/actions)
+    <a href="https://github.com/features/actions">GitHub Actions Page</a>
 
 
-    [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
+    <a href="https://docs.github.com/en/actions/quickstart">GitHub Actions Quickstart</a>
 
 
-    [GitHub Actions Documentation](https://docs.github.com/en/actions)
+    <a href="https://docs.github.com/en/actions">GitHub Actions Documentation</a>
 
 
-    [Python Requests](https://requests.readthedocs.io/en/latest/) 
+    <a href="https://requests.readthedocs.io/en/latest/">Python Requests</a> 
     
